@@ -403,17 +403,7 @@
       "name": "蓝猫影视",
       "type": 1,
       "api": "https://www.lmzy.cc/api.php/provide/vod",
-      "playUrl": "",
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "番剧",
-        "国创",
-        "电影",
-        "电视"
-      ]
+      "playUrl": ""
     },
     {
       "key": "柚子TV",
