@@ -262,7 +262,7 @@
     {
       "key": "百度解析",
       "name": "百度解析",
-      "type": 1,
+      "type": 0,
       "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
@@ -287,10 +287,10 @@
         "武侠片",
         "奇幻片",
         "纪录片",
-        "B站番剧",
-        "B站国创",
-        "B站电影",
-        "B站电视剧"
+        "番剧(B站)",
+        "国创(B站)",
+        "电影(B站)",
+        "电视剧(B站)"
       ]
     },
     {
