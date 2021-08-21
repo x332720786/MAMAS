@@ -210,8 +210,8 @@
       "playUrl": ""
     },
     {
-      "key": "云男",
-      "name": "云男",
+      "key": "云博解析",
+      "name": "云博解析",
       "type": 0,
       "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml/",
       "playUrl": ""
@@ -399,8 +399,8 @@
       "playUrl": ""
     },
     {
-      "key": "蓝猫影视",
-      "name": "蓝猫影视",
+      "key": "蓝猫",
+      "name": "蓝猫",
       "type": 1,
       "api": "https://www.lmzy.cc/api.php/provide/vod",
       "playUrl": ""
