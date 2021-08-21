@@ -167,7 +167,6 @@
         "港台剧",
         "日韩剧",
         "欧美剧",
-        "福利"
       ]
     },
     {
@@ -191,7 +190,6 @@
         "欧美剧",
         "微电影",
         "纪录片",
-        "伦理片",
         "冒险片",
         "悬疑片",
         "犯罪片",
@@ -234,27 +232,6 @@
       "playUrl": "https://vip.parwix.com:4433/player/?url="
     },
     {
-      "key": "百度云",
-      "name": "百度云",
-      "type": 1,
-      "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.jhdyw.vip/?url="
-    },
-    {
-      "key": "CJT影视",
-      "name": "CJT影视",
-      "type": 1,
-      "api": "https://www.cjt521.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jiexi.cjt521.com/?url="
-    },
-    {
-      "key": "白熊影视",
-      "name": "白熊影视",
-      "type": 0,
-      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
       "key": "飞鱼影视",
       "name": "飞鱼影视",
       "type": 0,
@@ -274,6 +251,47 @@
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "playUrl": ""
+    },
+    {
+      "key": "白熊影视",
+      "name": "白熊影视",
+      "type": 0,
+      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "百度解析",
+      "name": "百度解析",
+      "type": 1,
+      "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "动画片",
+        "武侠片",
+        "奇幻片",
+        "纪录片",
+        "B站番剧",
+        "B站国创",
+        "B站电影",
+        "B站电视剧"
+      ]
     },
     {
       "key": "afys_spider",
