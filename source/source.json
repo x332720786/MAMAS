@@ -213,7 +213,7 @@
       "key": "百度解析",
       "name": "百度解析",
       "type": 0,
-      "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml/",
+      "api": "https://api.bdjx.vip/api.php/provide/vod/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -402,7 +402,7 @@
       "key": "蓝猫影视",
       "name": "蓝猫影视",
       "type": 1,
-      "api": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
+      "api": "https://www.lmzy.cc/api.php/provide/vod",
       "playUrl": ""
     },
     {
@@ -415,8 +415,8 @@
     {
       "key": "飞鱼影视",
       "name": "飞鱼影视",
-      "type": 0,
-      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://app.feiyu5.com/api.php/provide/vod",
       "playUrl": ""
     }
   ],
