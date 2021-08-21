@@ -211,59 +211,10 @@
       ]
     },
     {
-      "key": "09tv",
-      "name": "09tv",
-      "type": 0,
-      "api": "https://09tv.top/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "yunboys.TV",
-      "name": "yunboys.TV",
-      "type": 0,
-      "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "天堂影视",
-      "name": "天堂影视",
-      "type": 0,
-      "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
-      "key": "飞鱼影视",
-      "name": "飞鱼影视",
-      "type": 0,
-      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "293影院",
-      "name": "293影院",
-      "type": 0,
-      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.jhdyw.vip/?url="
-    },
-    {
-      "key": "8090资源",
-      "name": "8090资源",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "白熊影视",
-      "name": "白熊影视",
-      "type": 0,
-      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
       "key": "百度解析",
       "name": "百度解析",
       "type": 0,
-      "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml",
+      "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -292,6 +243,55 @@
         "电影（B站）",
         "电视剧（B站）"
       ]
+    },
+    {
+      "key": "09tv",
+      "name": "09tv",
+      "type": 0,
+      "api": "https://09tv.top/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "yunboys.TV",
+      "name": "yunboys.TV",
+      "type": 0,
+      "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "天堂影视",
+      "name": "天堂影视",
+      "type": 0,
+      "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
+      "playUrl": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "key": "飞鱼影视",
+      "name": "飞鱼影视",
+      "type": 0,
+      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "293影院",
+      "name": "293影院",
+      "type": 0,
+      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml/",
+      "playUrl": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "key": "8090资源",
+      "name": "8090资源",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "白熊影视",
+      "name": "白熊影视",
+      "type": 0,
+      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
     },
     {
       "key": "afys_spider",
