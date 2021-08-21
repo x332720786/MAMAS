@@ -371,13 +371,6 @@
       "playUrl": ""
     },
     {
-      "key": "飞鱼影视",
-      "name": "飞鱼影视",
-      "type": 0,
-      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "afys_spider",
       "name": "爬虫源1",
       "type": 2,
@@ -403,6 +396,13 @@
       "name": "爬虫源4",
       "type": 2,
       "api": "Scrawl4",
+      "playUrl": ""
+    },
+    {
+      "key": "飞鱼影视",
+      "name": "飞鱼影视",
+      "type": 0,
+      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
   ],
