@@ -401,7 +401,7 @@
     {
       "key": "蓝猫影视",
       "name": "蓝猫影视",
-      "type": 0,
+      "type": 1,
       "api": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
