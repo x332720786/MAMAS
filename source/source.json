@@ -265,13 +265,6 @@
       "playUrl": "https://vip.parwix.com:4433/player/?url="
     },
     {
-      "key": "飞鱼影视",
-      "name": "飞鱼影视",
-      "type": 0,
-      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "293影院",
       "name": "293影院",
       "type": 0,
@@ -375,6 +368,13 @@
       "name": "真不卡",
       "type": 0,
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "飞鱼影视",
+      "name": "飞鱼影视",
+      "type": 0,
+      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
