@@ -399,10 +399,10 @@
       "playUrl": ""
     },
     {
-      "key": "蓝猫资源",
-      "name": "蓝猫资源",
+      "key": "免费影院",
+      "name": "免费影院",
       "type": 0,
-      "api": "https://www.lmzy.cc/api.php/provide/vod",
+      "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
