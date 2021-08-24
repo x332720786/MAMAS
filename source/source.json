@@ -399,10 +399,10 @@
       "playUrl": ""
     },
     {
-      "key": "蓝猫",
-      "name": "蓝猫",
+      "key": "蓝猫资源",
+      "name": "蓝猫资源",
       "type": 0,
-      "api": "https://www.lmzy.cc/api.php/provide/vod",
+      "api": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
