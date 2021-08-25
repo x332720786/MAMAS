@@ -57,7 +57,7 @@
       "name": "爱看影视",
       "type": 0,
       "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-      "playUrl": "https://vip.bljiex.com/?v=",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动漫",
@@ -221,14 +221,14 @@
       "name": "天堂影视",
       "type": 0,
       "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
-      "playUrl": "https://vip.parwix.com:4433/player/?url="
+      "playUrl": ""
     },
     {
       "key": "293影院",
       "name": "293影院",
       "type": 0,
       "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml/",
-      "playUrl": "https://api.jhdyw.vip/?url="
+      "playUrl": ""
     },
     {
       "key": "8090",
