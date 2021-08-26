@@ -231,10 +231,39 @@
       "playUrl": ""
     },
     {
+      "key": "新女神",
+      "name": "新女神",
+      "type": 0,
+      "api": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "播放呀app",
+      "name": "播放呀app",
+      "type": 0,
+      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    
+    {
       "key": "8090",
       "name": "8090",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "小蜻蜓采集",
+      "name": "小蜻蜓采集",
+      "type": 0,
+      "api": "http://3ketv.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "605资源",
+      "name": "605资源",
+      "type": 0,
+      "api": "http://www.605zy.co/inc/api.php",
       "playUrl": ""
     },
     {
@@ -370,30 +399,49 @@
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
+    
+   {
+      "key": "hgys_spider",
+      "name": "爬虫源1",
+      "type": 2,
+      "api": "wkjskK5hA6Cxr7",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "zjdr_spider",
+      "name": "爬虫源2",
+      "type": 2,
+      "api": "irB66BwzwhbL4r",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
     {
       "key": "afys_spider",
-      "name": "爬虫源1",
+      "name": "爬虫源3",
       "type": 2,
       "api": "Scrawl1",
       "playUrl": ""
     },
     {
       "key": "jpys_spider",
-      "name": "爬虫源2",
+      "name": "爬虫源4",
       "type": 2,
       "api": "Scrawl2",
       "playUrl": ""
     },
     {
       "key": "mgys_spider",
-      "name": "爬虫源3",
+      "name": "爬虫源5",
       "type": 2,
       "api": "Scrawl3",
       "playUrl": ""
     },
     {
       "key": "ysgc_spider",
-      "name": "爬虫源4",
+      "name": "爬虫源6",
       "type": 2,
       "api": "Scrawl4",
       "playUrl": ""
