@@ -290,6 +290,13 @@
       ]
     },
     {
+      "key": "快播云",
+      "name": "快播云",
+      "type": 0,
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "百度云",
       "name": "百度云",
       "type": 0,
