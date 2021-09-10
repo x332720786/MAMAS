@@ -80,7 +80,7 @@
     },
     {
       "key": "",
-      "name": "博天堂三级",
+      "name": "博天堂伦理",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "playUrl": ""
@@ -387,10 +387,6 @@
     {
       "name": "OK",
       "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "Parwix解析",
-      "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
       "name": "Json.M3u8",
