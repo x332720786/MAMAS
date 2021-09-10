@@ -1,0 +1,645 @@
+
+{
+  "sites": [
+    {
+      "key": "",
+      "name": "佳丽",
+      "type": 0,
+      "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": [
+        
+      ]
+    },
+    {
+      "key": "",
+      "name": "花椒",
+      "type": 0,
+      "api": "https://cj.apihjzy.com/inc/api.php",
+      "playUrl": "",
+      "categories": [
+        
+      ]
+    },
+    {
+      "key": "",
+      "name": "丝袜",
+      "type": 0,
+      "api": "https://www.siwazyw.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": [
+        
+      ]
+    },
+    {
+      "key": "",
+      "name": "趣播解析",
+      "type": 0,
+      "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": [
+        
+      ]
+    },
+    {
+      "key": "",
+      "name": "芒果",
+      "type": 0,
+      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": [
+        
+      ]
+    },
+    {
+      "key": "",
+      "name": "老鸭",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": [
+        
+      ]
+    },
+    {
+      "key": "",
+      "name": "大地",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "playUrl": "",
+      "categories": [
+        
+      ]
+    },
+    {
+      "key": "",
+      "name": "环亚无码",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "playUrl": ""
+    },
+    {
+      "key": "",
+      "name": "博天堂三级",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "playUrl": ""
+    },
+    {
+      "key": "",
+      "name": "鲨鱼",
+      "type": 0,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "",
+      "name": "BB",
+      "type": 0,
+      "api": "http://bbzy.cc/inc/maccms10.php",
+      "playUrl": ""
+    },
+    {
+      "key": "",
+      "name": "久草",
+      "type": 0,
+      "api": "http://jcspcj8.com/api?ac=videolist&pg=1",
+      "playUrl": ""
+    },
+    {
+      "key": "",
+      "name": "99",
+      "type": 0,
+      "api": "http://yllzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "",
+      "name": "乐播",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "",
+      "name": "百度伦理",
+      "type": 0,
+      "api": "http://llbdzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    }
+  ],
+  "lives": [
+    {
+      "group": "足球",
+      "channels": [
+        {
+          "name": "五星体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "魅力足球",
+          "urls": [
+            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "劲爆体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "足球频道",
+          "urls": [
+            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+          ]
+        },
+        {
+          "name": "广东体育",
+          "urls": [
+            "http://149.129.100.78/guangdong.php?id=47"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV-1综合",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ"
+          ]
+        },
+        {
+          "name": "CCTV-2财经",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ"
+          ]
+        },
+        {
+          "name": "CCTV-3综艺",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ"
+          ]
+        },
+        {
+          "name": "CCTV-4中文国际",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ"
+          ]
+        },
+        {
+          "name": "CCTV-5体育",
+          "urls": [
+            "http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv5/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5+体育赛事",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/"
+          ]
+        },
+        {
+          "name": "CCTV-6电影",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ"
+          ]
+        },
+        {
+          "name": "CCTV-7军事农业",
+          "urls": [
+            "http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8电视剧",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ"
+          ]
+        },
+        {
+          "name": "CCTV-9纪录",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M"
+          ]
+        },
+        {
+          "name": "CCTV-10科教",
+          "urls": [
+            "http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv10/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12社会与法",
+          "urls": [
+            "http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv12/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13新闻",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ"
+          ]
+        },
+        {
+          "name": "CCTV-14少儿",
+          "urls": [
+            "http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "安徽卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_ANHUI-HD-265-5M/G_ANHUI-HD-265-5M"
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_BEIJING-HD-265-5M/G_BEIJING-HD-265-5M"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_DONGFANG-HD-265-5M/G_DONGFANG-HD-265-5M"
+          ]
+        },
+        {
+          "name": "广东卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_GUANGDONG-HD-265-5M/G_GUANGDONG-HD-265-5M"
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_HEILONGJIANG-HD-265-5M/G_HEILONGJIANG-HD-265-5M"
+          ]
+        },
+        {
+          "name": "湖北卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_HUBEI-HD-265-5M/G_HUBEI-HD-265-5M"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_HUNAN-HD-265-5M/G_HUNAN-HD-265-5M"
+          ]
+        },
+        {
+          "name": "江苏卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_JIANGSU-HD-265-5M/G_JIANGSU-HD-265-5M"
+          ]
+        },
+        {
+          "name": "辽宁卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_LIAONING-HD-265-5M/G_LIAONING-HD-265-5M"
+          ]
+        },
+        {
+          "name": "山东卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_SHANDONG-HD-265-5M/G_SHANDONG-HD-265-5M"
+          ]
+        },
+        {
+          "name": "深圳卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_SHENZHEN-HD-265-5M/G_SHENZHEN-HD-265-5M"
+          ]
+        },
+        {
+          "name": "天津卫视",
+          "urls": [
+            "http://223.110.241.206:6610/gitv/live1/G_TIANJIN-HD-265-5M/G_TIANJIN-HD-265-5M"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "暮光解析",
+      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+    },
+    {
+      "name": "月亮",
+      "url": "https://api.yueliangjx.com/?url="
+    },
+    {
+      "name": "parwix",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "江湖",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "B站解析",
+      "url": "https://www.cuan.la/m3u8.php?url="
+    },
+    {
+      "name": "星驰",
+      "url": "https://vip.cjys.top/?url="
+    },
+    {
+      "name": "老板",
+      "url": "https://vip.laobandq.com/jiexi.php?url="
+    },
+    {
+      "name": "迪奥",
+      "url": "https://123.1dior.cn/?url="
+    },
+    {
+      "name": "九八",
+      "url": "https://jx.youyitv.com/?url="
+    },
+    {
+      "name": "百度",
+      "url": "https://jsap.attakids.com/?url="
+    },
+    {
+      "name": "M3U8.tv",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "久看",
+      "url": "https://9kjx.com/?url="
+    },
+    {
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "Parwix解析",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "Json.M3u8",
+      "url": "https://json.m3u8.tv:7788/json.php?url=",
+      "type": 1
+    },
+    {
+      "name": "Json.VodJX",
+      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
+      "type": 1
+    },
+    {
+      "name": "H_趣播解析",
+      "url": "http://parse.qbzyz.com/parse?resources=",
+      "type": 1
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
+}
