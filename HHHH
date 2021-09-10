@@ -6,70 +6,49 @@
       "name": "佳丽",
       "type": 0,
       "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        
-      ]
+      "playUrl": ""
     },
     {
       "key": "",
       "name": "花椒",
       "type": 0,
       "api": "https://cj.apihjzy.com/inc/api.php",
-      "playUrl": "",
-      "categories": [
-        
-      ]
+      "playUrl": ""
     },
     {
       "key": "",
       "name": "丝袜",
       "type": 0,
       "api": "https://www.siwazyw.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        
-      ]
+      "playUrl": ""
     },
     {
       "key": "",
       "name": "趣播解析",
       "type": 0,
       "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": [
-        
-      ]
+      "playUrl": ""
     },
     {
       "key": "",
       "name": "芒果",
       "type": 0,
       "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        
-      ]
+      "playUrl": ""
     },
     {
       "key": "",
       "name": "老鸭",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": [
-        
-      ]
+      "playUrl": ""
     },
     {
       "key": "",
       "name": "大地",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
-      "playUrl": "",
-      "categories": [
-        
-      ]
+      "playUrl": ""
     },
     {
       "key": "",
