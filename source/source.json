@@ -729,20 +729,24 @@
   ],
   "parses": [
     {
-      "name": "江湖",
-      "url": "https://api.jhdyw.vip/?url="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
+      "name": "月亮",
+      "url": "https://api.yueliangjx.com/?url="
     },
     {
       "name": "parwix",
       "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
+      "name": "江湖",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
       "name": "虾米",
       "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "暮光解析",
+      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
       "name": "B站解析",
@@ -751,10 +755,6 @@
     {
       "name": "星驰",
       "url": "https://vip.cjys.top/?url="
-    },
-    {
-      "name": "月亮",
-      "url": "https://api.yueliangjx.com/?url="
     },
     {
       "name": "老板",
@@ -781,8 +781,8 @@
       "url": "https://9kjx.com/?url="
     },
     {
-      "name": "暮光解析",
-      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
     },
     {
       "name": "Parwix解析",
