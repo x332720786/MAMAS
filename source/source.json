@@ -224,13 +224,6 @@
       "playUrl": ""
     },
     {
-      "key": "293影院",
-      "name": "293影院",
-      "type": 0,
-      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "新女神",
       "name": "新女神",
       "type": 0,
