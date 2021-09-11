@@ -312,10 +312,6 @@
   ],
   "parses": [
     {
-      "name": "暮光解析",
-      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
-    },
-    {
       "name": "月亮",
       "url": "https://api.yueliangjx.com/?url="
     },
