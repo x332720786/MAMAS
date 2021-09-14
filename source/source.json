@@ -729,12 +729,16 @@
   ],
   "parses": [
     {
-      "name": "parwix",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
       "name": "江湖",
       "url": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "parwix",
+      "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
       "name": "虾米",
@@ -771,10 +775,6 @@
     {
       "name": "久看",
       "url": "https://9kjx.com/?url="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
     },
     {
       "name": "月亮",
