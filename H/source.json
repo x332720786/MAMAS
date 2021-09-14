@@ -16,13 +16,6 @@
       "playUrl": ""
     },
     {
-      "key": "趣播解析",
-      "name": "趣播解析",
-      "type": 0,
-      "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-      "playUrl": "http://parse.qbzyz.com/parse?resources="
-    },
-    {
       "key": "芒果",
       "name": "芒果",
       "type": 0,
@@ -63,6 +56,27 @@
       "type": 0,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
       "playUrl": ""
+    },
+    {
+      "key": "523",
+      "name": "523",
+      "type": 0,
+      "api": "https://caiji.523zyw.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "色猫",
+      "name": "色猫",
+      "type": 0,
+      "api": "https://api.maozyapi.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "趣播解析",
+      "name": "趣播解析",
+      "type": 0,
+      "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
+      "playUrl": "http://parse.qbzyz.com/parse?resources="
     },
     {
       "key": "环亚无码",
@@ -333,68 +347,6 @@
   ],
   "parses": [
     {
-      "name": "月亮",
-      "url": "https://api.yueliangjx.com/?url="
-    },
-    {
-      "name": "parwix",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
-      "name": "江湖",
-      "url": "https://api.jhdyw.vip/?url="
-    },
-    {
-      "name": "虾米",
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "B站解析",
-      "url": "https://www.cuan.la/m3u8.php?url="
-    },
-    {
-      "name": "星驰",
-      "url": "https://vip.cjys.top/?url="
-    },
-    {
-      "name": "老板",
-      "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "迪奥",
-      "url": "https://123.1dior.cn/?url="
-    },
-    {
-      "name": "九八",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "百度",
-      "url": "https://jsap.attakids.com/?url="
-    },
-    {
-      "name": "M3U8.tv",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "久看",
-      "url": "https://9kjx.com/?url="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "Json.M3u8",
-      "url": "https://json.m3u8.tv:7788/json.php?url=",
-      "type": 1
-    },
-    {
-      "name": "Json.VodJX",
-      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
-      "type": 1
-    },
-    {
       "name": "H_趣播解析",
       "url": "http://parse.qbzyz.com/parse?resources=",
       "type": 1
@@ -414,6 +366,16 @@
       "url": "https://api.xiusebf.com/m3u8/?url=",
       "type": 1
     },
+    {
+      "name": "H_乐鱼解析",
+      "url": "https://player.leyuzy.net/?url=",
+      "type": 1
+    },
+    {
+      "name": "H_色猫解析",
+      "url": "https://api.maozyapi.com/m3u8/?url=",
+      "type": 1
+    }
   ],
   "flags": [
     "youku",
