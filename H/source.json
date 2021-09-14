@@ -34,13 +34,34 @@
       "name": "老鸭",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url="
+      "playUrl": ""
     },
     {
       "key": "大地",
       "name": "大地",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "优果",
+      "name": "优果",
+      "type": 0,
+      "api": "https://www.ugvapi.com/inc/zyapimac.php",
+      "playUrl": ""
+    },
+    {
+      "key": "探探",
+      "name": "探探",
+      "type": 0,
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
+    },
+    {
+      "key": "秀色",
+      "name": "秀色",
+      "type": 0,
+      "api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
       "playUrl": ""
     },
     {
@@ -377,7 +398,22 @@
       "name": "H_趣播解析",
       "url": "http://parse.qbzyz.com/parse?resources=",
       "type": 1
-    }
+    },
+    {
+      "name": "H_老鸭解析",
+      "url": "https://player.laoyam3u8.com/aliplayer/?url=",
+      "type": 1
+    },
+    {
+      "name": "H_探探解析",
+      "url": "https://jiexi.ttbfp1.com/m3u8/?url=",
+      "type": 1
+    },
+    {
+      "name": "H_秀色解析",
+      "url": "https://api.xiusebf.com/m3u8/?url=",
+      "type": 1
+    },
   ],
   "flags": [
     "youku",
