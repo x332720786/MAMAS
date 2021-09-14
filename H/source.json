@@ -72,6 +72,13 @@
       "playUrl": ""
     },
     {
+      "key": "速播解析",
+      "name": "速播解析",
+      "type": 0,
+      "api": "https://api.suboapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.suboapi.com/jx/?url="
+    },
+    {
       "key": "趣播解析",
       "name": "趣播解析",
       "type": 0,
