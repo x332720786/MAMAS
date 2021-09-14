@@ -2,13 +2,6 @@
 {
   "sites": [
     {
-      "key": "佳丽",
-      "name": "佳丽",
-      "type": 0,
-      "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "花椒",
       "name": "花椒",
       "type": 0,
@@ -27,7 +20,7 @@
       "name": "趣播解析",
       "type": 0,
       "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
+      "playUrl": "http://parse.qbzyz.com/parse?resources="
     },
     {
       "key": "芒果",
@@ -41,7 +34,7 @@
       "name": "老鸭",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
+      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url="
     },
     {
       "key": "大地",
@@ -97,6 +90,13 @@
       "name": "乐播",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "佳丽",
+      "name": "佳丽",
+      "type": 0,
+      "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
