@@ -359,6 +359,11 @@
       "type": 1
     },
     {
+      "name": "H_速播解析",
+      "url": "https://player.suboapi.com/jx/?url=",
+      "type": 1
+    },
+    {
       "name": "H_老鸭解析",
       "url": "https://player.laoyam3u8.com/aliplayer/?url=",
       "type": 1
