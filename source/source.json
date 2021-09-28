@@ -859,8 +859,8 @@
       "filterable": 1
     },
     {
-      "key": "蓝猫资源",
-      "name": "蓝猫资源",
+      "key": "蓝猫",
+      "name": "蓝猫",
       "type": 1,
       "api": "https://www.lmzy.cc/api.php/provide/vod/",
       "playUrl": ""
