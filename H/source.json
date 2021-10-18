@@ -2,6 +2,13 @@
 {
   "sites": [
     {
+      "key": "奶茶",
+      "name": "奶茶",
+      "type": 0,
+      "api": "https://caiji.naichaapi.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
       "key": "花椒",
       "name": "花椒",
       "type": 0,
