@@ -79,6 +79,13 @@
       "playUrl": ""
     },
     {
+      "key": "乐鱼",
+      "name": "乐鱼",
+      "type": 0,
+      "api": "https://www.leyuzyapi.com/inc/zyapimac.php",
+      "playUrl": ""
+    },
+    {
       "key": "速播解析",
       "name": "速播解析",
       "type": 0,
@@ -146,6 +153,13 @@
       "name": "佳丽",
       "type": 0,
       "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "苍天",
+      "name": "苍天",
+      "type": 0,
+      "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/from/ctm3u8/",
       "playUrl": ""
     },
     {
