@@ -9,6 +9,13 @@
       "playUrl": ""
     },
     {
+      "key": "爱播",
+      "name": "爱播",
+      "type": 0,
+      "api": "http://api.aibozyapi.com/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "花椒",
       "name": "花椒",
       "type": 0,
