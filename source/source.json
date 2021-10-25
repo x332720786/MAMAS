@@ -388,14 +388,14 @@
       "name": "09tv",
       "type": 0,
       "api": "https://09tv.top/api.php/provide/vod/at/xml/",
-      "playUrl": ""
+      "playUrl": "https://jx.09tv.top/bd/?url="
     },
     {
       "key": "云博解析",
       "name": "云博解析",
       "type": 0,
       "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml/",
-      "playUrl": ""
+      "playUrl": "https://jx.yunboys.cn/?url="
     },
     {
       "key": "天堂影视",
@@ -744,7 +744,7 @@
       "key": "人人迷",
       "name": "人人迷",
       "type": 0,
-      "api": "https://kuu.renrenmi.cc/api.php/provide/ vod/at/xml",
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
       "playUrl": "https://jx.renrenmi.cc/?url="
     },
     {
@@ -765,21 +765,14 @@
       "key": "BL解析",
       "name": "BL解析",
       "type": 0,
-      "api": "https://bljiex.com/api.php/provide/vod/at/xml vod/at/xml",
+      "api": "https://bljiex.com/api.php/provide/vod/at/xml",
       "playUrl": "https://vip.bljiex.com/?v="
-    },
-    {
-      "key": "云博解析",
-      "name": "云博解析",
-      "type": 0,
-      "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml vod/at/xml",
-      "playUrl": "https://jx.yunboys.cn/?url="
     },
     {
       "key": "omofun动漫",
       "name": "omofun动漫",
       "type": 0,
-      "api": "https://omofun.com/api.php/provide/vod/?ac=list",
+      "api": "https://omofun.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
