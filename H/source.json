@@ -9,6 +9,13 @@
       "playUrl": ""
     },
     {
+      "key": "桃色",
+      "name": "桃色",
+      "type": 0,
+      "api": "https://api.taoseapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://m3u8.taosebfq.com/dp/?url="
+    },
+    {
       "key": "爱播",
       "name": "爱播",
       "type": 0,
