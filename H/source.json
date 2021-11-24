@@ -16,6 +16,13 @@
       "playUrl": "https://m3u8.taosebfq.com/dp/?url="
     },
     {
+      "key": "酷豆",
+      "name": "酷豆",
+      "type": 0,
+      "api": "http://api.kdapi.info/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.kubohk.com/jx/?url="
+    },
+    {
       "key": "爱播",
       "name": "爱播",
       "type": 0,
@@ -153,6 +160,13 @@
       "name": "99",
       "type": 0,
       "api": "http://yllzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "小姐姐",
+      "name": "小姐姐",
+      "type": 0,
+      "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
       "playUrl": ""
     },
     {
