@@ -142,6 +142,20 @@
       "playUrl": ""
     },
     {
+      "key": "1024",
+      "name": "1024",
+      "type": 0,
+      "api": "http://www.1024nf.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "晓峰",
+      "name": "晓峰",
+      "type": 0,
+      "api": "http://api.xxcr.tk/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "BB",
       "name": "BB",
       "type": 0,
@@ -170,13 +184,6 @@
       "playUrl": ""
     },
     {
-      "key": "乐播",
-      "name": "乐播",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "佳丽",
       "name": "佳丽",
       "type": 0,
@@ -195,6 +202,13 @@
       "name": "百度伦理",
       "type": 0,
       "api": "http://llbdzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "乐播",
+      "name": "乐播",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
   ],
@@ -402,6 +416,50 @@
     }
   ],
   "parses": [
+    {
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "parwix",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "B站解析",
+      "url": "https://www.cuan.la/m3u8.php?url="
+    },
+    {
+      "name": "星驰",
+      "url": "https://vip.cjys.top/?url="
+    },
+    {
+      "name": "老板",
+      "url": "https://vip.laobandq.com/jiexi.php?url="
+    },
+    {
+      "name": "迪奥",
+      "url": "https://123.1dior.cn/?url="
+    },
+    {
+      "name": "九八",
+      "url": "https://jx.youyitv.com/?url="
+    },
+    {
+      "name": "百度",
+      "url": "https://jsap.attakids.com/?url="
+    },
+    {
+      "name": "M3U8.tv",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "久看",
+      "url": "https://9kjx.com/?url="
+    },
     {
       "name": "H_趣播解析",
       "url": "http://parse.qbzyz.com/parse?resources=",
