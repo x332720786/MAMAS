@@ -114,13 +114,6 @@
       "playUrl": ""
     },
     {
-      "key": "优果",
-      "name": "优果",
-      "type": 0,
-      "api": "https://www.ugvapi.com/inc/zyapimac.php",
-      "playUrl": ""
-    },
-    {
       "key": "探探",
       "name": "探探",
       "type": 0,
@@ -188,13 +181,6 @@
       "name": "鲨鱼",
       "type": 0,
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "1024",
-      "name": "1024",
-      "type": 0,
-      "api": "http://www.1024nf.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
