@@ -23,6 +23,13 @@
       "playUrl": "https://jx.kubohk.com/jx/?url="
     },
     {
+      "key": "Kk",
+      "name": "kk",
+      "type": 0,
+      "api": "https://kkzy.me/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "爱播",
       "name": "爱播",
       "type": 0,
