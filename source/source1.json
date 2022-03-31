@@ -162,13 +162,6 @@
       ]
     },
     {
-      "key": "天堂影视",
-      "name": "天堂影视",
-      "type": 0,
-      "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "8090",
       "name": "8090",
       "type": 0,
@@ -255,27 +248,6 @@
       "playUrl": "https://jx.fqzy.cc/jx.php?url="
     },
     {
-      "key": "热映解析",
-      "name": "热映解析",
-      "type": 0,
-      "api": "http://hl.reying.vip/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "000资源",
-      "name": "000资源",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "蜗牛看鸭",
-      "name": "蜗牛看鸭",
-      "type": 0,
-      "api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
       "key": "兔子窝",
       "name": "兔子窝",
       "type": 0,
@@ -290,34 +262,6 @@
       "playUrl": "https://vip.parwix.com:4433/player/?url="
     },
     {
-      "key": "喵派对蓝光",
-      "name": "喵派对蓝光",
-      "type": 0,
-      "api": "https://www.neenl.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "真不卡",
-      "name": "真不卡",
-      "type": 0,
-      "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
-    },
-    {
-      "key": "人人迷",
-      "name": "人人迷",
-      "type": 0,
-      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://jx.renrenmi.cc/?url="
-    },
-    {
-      "key": "嘀哩嘀哩",
-      "name": "嘀哩嘀哩",
-      "type": 0,
-      "api": "http://api.diliktv.xyz/api.php/provide/vod/at/xml",
-      "playUrl": "https://app.diliktv.xyz/jx/?url="
-    },
-    {
       "key": "虾米",
       "name": "虾米",
       "type": 0,
@@ -329,7 +273,7 @@
       "name": "BL解析",
       "type": 0,
       "api": "https://bljiex.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v="
+      "playUrl": ""
     },
     {
       "key": "omofun动漫",
@@ -343,13 +287,6 @@
       "name": "88资源",
       "type": 0,
       "api": "http://www.88zyw.net/inc/api.php",
-      "playUrl": ""
-    },
-    {
-      "key": "免费影院",
-      "name": "免费影院",
-      "type": 0,
-      "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
