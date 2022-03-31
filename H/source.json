@@ -190,6 +190,7 @@
       "api": "https://ckzy.me/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
+    {
       "key": "鲨鱼",
       "name": "鲨鱼",
       "type": 0,
@@ -253,8 +254,8 @@
       "playUrl": ""
     },
     {
-      "key": "百度伦理",
-      "name": "百度伦理",
+      "key": "百度三级",
+      "name": "百度三级",
       "type": 0,
       "api": "http://llbdzy.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
