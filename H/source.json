@@ -247,6 +247,13 @@
       "playUrl": ""
     },
     {
+      "key": "色窝",
+      "name": "色窝",
+      "type": 0,
+      "api": "https://sewozyapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.sewozyplayer.com/m3u8/?url="
+    },
+    {
       "key": "乐播",
       "name": "乐播",
       "type": 0,
