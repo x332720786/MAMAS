@@ -799,10 +799,6 @@
   ],
   "parses": [
     {
-      "name": "江湖",
-      "url": "https://api.jhdyw.vip/?url="
-    },
-    {
       "name": "OK",
       "url": "https://okjx.cc/?url="
     },
@@ -815,32 +811,16 @@
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "新月亮",
-      "url": "https://vip.jianjians.com/?url="
-    },
-    {
       "name": "B站解析",
       "url": "https://www.cuan.la/m3u8.php?url="
-    },
-    {
-      "name": "星驰",
-      "url": "https://vip.cjys.top/?url="
     },
     {
       "name": "老板",
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
-      "name": "迪奥",
-      "url": "https://123.1dior.cn/?url="
-    },
-    {
       "name": "九八",
       "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "百度",
-      "url": "https://jsap.attakids.com/?url="
     },
     {
       "name": "M3U8.tv",
@@ -849,32 +829,6 @@
     {
       "name": "久看",
       "url": "https://9kjx.com/?url="
-    },
-    {
-      "name": "月亮",
-      "url": "https://api.yueliangjx.com/?url="
-    },
-    {
-      "name": "Json.M3u8",
-      "url": "https://json.m3u8.tv:7788/json.php?url=",
-      "type": 1
-    },
-    {
-      "name": "Json.VodJX",
-      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
-      "type": 1
-    },
-    {
-      "name": "游艺解析",
-      "url": "https://api.u1o.net/?url="
-    },
-    {
-      "name": "飞跃",
-      "url": "http://feiyue.rf.gd/jx/?v="
-    },
-    {
-      "name": "白玉影视",
-      "url": "https://jx.baiyu.buzz/?url="
     },
     {
       "name": "BL",
