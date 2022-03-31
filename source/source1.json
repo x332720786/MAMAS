@@ -517,9 +517,21 @@
       "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
+      "name": "M3U8.tv",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
       "name": "虾米",
       "url": "https://jx.xmflv.com/?url="
     },
+    {
+      "name": "人人迷",
+      "url": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "name": "片库",
+      "url": "https://www.newsaas.cn/jx/?url="
+    }
     {
       "name": "B站解析",
       "url": "https://www.cuan.la/m3u8.php?url="
@@ -533,24 +545,12 @@
       "url": "https://jx.youyitv.com/?url="
     },
     {
-      "name": "M3U8.tv",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
       "name": "久看",
       "url": "https://9kjx.com/?url="
     },
     {
       "name": "BL",
       "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "人人迷",
-      "url": "https://jx.renrenmi.cc/?url="
-    },
-    {
-      "name": "片库",
-      "url": "https://www.newsaas.cn/jx/?url="
     }
   ],
   "flags": [
