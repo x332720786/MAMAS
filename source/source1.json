@@ -167,6 +167,37 @@
       ]
     },
     {
+      "key": "晓峰资源",
+      "name": "晓峰资源",
+      "type": 0,
+      "api": "http://api.xxcr.tk/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": [
+        "综艺",
+        "动漫",
+        "记录片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "其他片",
+        "动画片",
+        "蓝光",
+        "泰国剧",
+        "大陆动漫",
+        "日本动漫",
+        "欧美动漫",
+        "其他动漫"
+      ]
+    },
+    {
       "key": "无极影院",
       "name": "无极影院",
       "type": 0,
@@ -850,6 +881,14 @@
     {
       "name": "BL",
       "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "人人迷",
+      "url": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "name": "片库",
+      "url": "https://www.newsaas.cn/jx/?url="
     }
   ],
   "flags": [
