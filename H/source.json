@@ -34,7 +34,7 @@
       "name": "草莓",
       "type": 0,
       "api": "https://caiji.caomeiapi.com/inc/api.php",
-      "playUrl": ""
+      "playUrl": "https://jiexi.caomeiapi.com/?url="
     },
     {
       "key": "爱播",
