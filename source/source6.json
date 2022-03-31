@@ -508,14 +508,14 @@
     }
   ],
   "parses": [
-    
+    {
       "name": "parwix",
       "url": "https://vip.parwix.com:4433/player/?url=",
       "flags": [
              "iqiyi",
              "qiyi"
   ]
-    },
+    }
   ],
   "flags": [
     "youku",
