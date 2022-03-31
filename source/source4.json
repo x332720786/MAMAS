@@ -508,16 +508,14 @@
     }
   ],
   "parses": [
-    {
-      "name": "片库",
-      "url": "https://www.newsaas.cn/jx/?url=",
+    
+      "name": "parwix",
+      "url": "https://vip.parwix.com:4433/player/?url=",
       "flags": [
-             "youku",
-             "qq",
-             "mgtv",
-             "bilibili"
-  ]
-    }
+             "iqiyi",
+             "qiyi"
+  ],
+    },
   ],
   "flags": [
     "youku",
