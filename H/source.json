@@ -30,6 +30,13 @@
       "playUrl": ""
     },
     {
+      "key": "草莓",
+      "name": "草莓",
+      "type": 0,
+      "api": "https://caiji.caomeiapi.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
       "key": "爱播",
       "name": "爱播",
       "type": 0,
