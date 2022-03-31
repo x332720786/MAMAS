@@ -184,9 +184,8 @@
       "playUrl": ""
     },
     {
-    {
       "key": "CK三级",
-      "name": "博CK三级",
+      "name": "CK三级",
       "type": 0,
       "api": "https://ckzy.me/api.php/provide/vod/at/xml",
       "playUrl": ""
