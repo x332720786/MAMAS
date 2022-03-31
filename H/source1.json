@@ -163,13 +163,6 @@
       "playUrl": "https://player.suboapi.com/jx/?url="
     },
     {
-      "key": "趣播解析",
-      "name": "趣播解析",
-      "type": 0,
-      "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-      "playUrl": "http://parse.qbzyz.com/parse?resources="
-    },
-    {
       "key": "环亚无码",
       "name": "环亚无码",
       "type": 0,
@@ -205,24 +198,10 @@
       "playUrl": ""
     },
     {
-      "key": "BB",
-      "name": "BB",
-      "type": 0,
-      "api": "http://bbzy.cc/inc/maccms10.php",
-      "playUrl": ""
-    },
-    {
       "key": "久草",
       "name": "久草",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist&pg=1",
-      "playUrl": ""
-    },
-    {
-      "key": "99",
-      "name": "99",
-      "type": 0,
-      "api": "http://yllzy.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -236,28 +215,7 @@
       "key": "佳丽",
       "name": "佳丽",
       "type": 0,
-      "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "色窝",
-      "name": "色窝",
-      "type": 0,
-      "api": "https://sewozyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://player.sewozyplayer.com/m3u8/?url="
-    },
-    {
-      "key": "苍天",
-      "name": "苍天",
-      "type": 0,
-      "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/from/ctm3u8/",
-      "playUrl": ""
-    },
-    {
-      "key": "百度三级",
-      "name": "百度三级",
-      "type": 0,
-      "api": "http://llbdzy.com/api.php/provide/vod/at/xml/",
+      "api": "https://jializyzapi.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
