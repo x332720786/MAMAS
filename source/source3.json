@@ -511,12 +511,12 @@
     {
       "name": "片库",
       "url": "https://www.newsaas.cn/jx/?url=",
-        "flags": [
-    "youku",
-    "qq",
-    "mgtv",
-    "bilibili"
-  ],
+      "flags": [
+             "youku",
+             "qq",
+             "mgtv",
+             "bilibili"
+  ]
     }
   ],
   "flags": [
