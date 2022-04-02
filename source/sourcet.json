@@ -500,6 +500,14 @@
       "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
+      "name": "60解析",
+      "url": "http://60jx.com/?url="
+    },
+    {
+      "name": "江湖云",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
       "name": "M3U8.tv",
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
@@ -530,6 +538,10 @@
     {
       "name": "久看",
       "url": "https://9kjx.com/?url="
+    },
+    {
+      "name": "段友",
+      "url": "https://shangjihuoke.com/CL4K/?url"
     },
     {
       "name": "BL",
