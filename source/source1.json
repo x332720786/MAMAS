@@ -33,28 +33,11 @@
       "playUrl": ""
     },
     {
-      "key": "星辰云资源",
-      "name": "星辰云资源",
+      "key": "无尽资源",
+      "name": "无尽资源",
       "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "playUrl": "",
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
     },
     {
       "key": "晓峰资源",
@@ -517,6 +500,14 @@
       "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
+      "name": "60解析",
+      "url": "http://60jx.com/?url="
+    },
+    {
+      "name": "江湖云",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
       "name": "M3U8.tv",
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
@@ -541,12 +532,12 @@
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
-      "name": "九八",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
       "name": "久看",
       "url": "https://9kjx.com/?url="
+    },
+    {
+      "name": "段友",
+      "url": "https://shangjihuoke.com/CL4K/?url"
     },
     {
       "name": "BL",
