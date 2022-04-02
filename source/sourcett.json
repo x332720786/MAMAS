@@ -37,7 +37,7 @@
       "name": "无尽资源",
       "type": 0,
       "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
-      "playUrl": "",
+      "playUrl": ""
     },
     {
       "key": "晓峰资源",
