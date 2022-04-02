@@ -33,28 +33,11 @@
       "playUrl": ""
     },
     {
-      "key": "星辰云资源",
-      "name": "星辰云资源",
+      "key": "无尽资源",
+      "name": "无尽资源",
       "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "playUrl": "",
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
     },
     {
       "key": "晓峰资源",
