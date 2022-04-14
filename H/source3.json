@@ -51,11 +51,11 @@
       "playUrl": "https://jiexi.putaozy.net/m3u8/?url="
     },
     {
-      "key": "爱播",
-      "name": "爱播",
+      "key": "银龙",
+      "name": "银龙",
       "type": 0,
-      "api": "http://api.aibozyapi.com/vod/at/xml",
-      "playUrl": "https://player.aibozyplayer.com/m3u8/?url="
+      "api": "https://yinlong.tv/api.php/provide/vod/at/xml/",
+      "playUrl": "https://jx.yinlongcms.com/?url="
     },
     {
       "key": "花椒",
