@@ -37,6 +37,20 @@
       "playUrl": "https://jiexi.caomeiapi.com/?url="
     },
     {
+      "key": "色窝",
+      "name": "色窝",
+      "type": 0,
+      "api": "https://sewozyapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.sewozyplayer.com/m3u8/?url="
+    },
+    {
+      "key": "葡萄",
+      "name": "葡萄",
+      "type": 0,
+      "api": "https://api.putaozy.net/inc/api.php",
+      "playUrl": "https://jiexi.putaozy.net/m3u8/?url="
+    },
+    {
       "key": "爱播",
       "name": "爱播",
       "type": 0,
@@ -47,7 +61,7 @@
       "key": "花椒",
       "name": "花椒",
       "type": 0,
-      "api": "https://cj.apihjzy.com/inc/api.php",
+      "api": "https://apihjzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://m3u8.hjimg9.com/dp/?url="
     },
     {
