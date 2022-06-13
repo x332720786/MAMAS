@@ -22,6 +22,14 @@
       "api": "http://api.kdapi.info/api.php/provide/vod/at/xml",
       "playUrl": "https://jx.kubohk.com/jx/?url="
     },
+    
+    {
+      "key": "淫窝",
+      "name": "淫窝",
+      "type": 0,
+      "api": "https://api.yinwoapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.yinwoplayer.com/m3u8/?url="
+    },
     {
       "key": "Kk",
       "name": "kk",
